@@ -234,7 +234,7 @@
   )
 
   (module Oscillator:Oscillator_DIP-8 (layer F.Cu) (tedit 58CD3344) (tstamp 5F34B003)
-    (at 60.0964 116.84)
+    (at 25.908 83.1088)
     (descr "Oscillator, DIP8,http://cdn-reichelt.de/documents/datenblatt/B400/OSZI.pdf")
     (tags oscillator)
     (path /5F15A5BC)
@@ -288,7 +288,7 @@
   )
 
   (module Display:RC1602A (layer F.Cu) (tedit 5A02FE80) (tstamp 5F34AFE1)
-    (at 196.5452 92.71)
+    (at 162.3568 58.9788)
     (descr http://www.raystar-optronics.com/down.php?ProID=18)
     (tags "LCD 16x2 Alphanumeric 16pin")
     (path /5F58825E)
@@ -399,7 +399,7 @@
   )
 
   (module digikey:DIP-14_W3mm (layer F.Cu) (tedit 596E717A) (tstamp 5F34BBBE)
-    (at 126.9492 90.297 90)
+    (at 92.7608 56.5658 90)
     (path /5F14F41B)
     (fp_text reference U1 (at 3.94 -3.2 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -460,7 +460,7 @@
   )
 
   (module Button_Switch_THT:SW_PUSH_6mm_H5mm (layer F.Cu) (tedit 5A02FE31) (tstamp 5F34AF6C)
-    (at 138.2268 114.7572)
+    (at 104.0384 81.026)
     (descr "tactile push button, 6x6mm e.g. PHAP33xx series, height=5mm")
     (tags "tact sw push 6mm")
     (path /5FCCAA94)
@@ -511,7 +511,7 @@
   )
 
   (module Button_Switch_THT:SW_PUSH_6mm_H5mm (layer F.Cu) (tedit 5A02FE31) (tstamp 5F34AF4D)
-    (at 125.8594 114.8842)
+    (at 91.671 81.153)
     (descr "tactile push button, 6x6mm e.g. PHAP33xx series, height=5mm")
     (tags "tact sw push 6mm")
     (path /5F88AACC)
@@ -562,7 +562,7 @@
   )
 
   (module Button_Switch_THT:SW_PUSH_6mm_H5mm (layer F.Cu) (tedit 5A02FE31) (tstamp 5F34AF2E)
-    (at 112.776 114.9816)
+    (at 78.5876 81.2504)
     (descr "tactile push button, 6x6mm e.g. PHAP33xx series, height=5mm")
     (tags "tact sw push 6mm")
     (path /5F88A72B)
@@ -613,7 +613,7 @@
   )
 
   (module Button_Switch_THT:SW_PUSH_6mm_H5mm (layer F.Cu) (tedit 5A02FE31) (tstamp 5F34AF0F)
-    (at 100.4062 114.9816)
+    (at 66.2178 81.2504)
     (descr "tactile push button, 6x6mm e.g. PHAP33xx series, height=5mm")
     (tags "tact sw push 6mm")
     (path /5F88A165)
@@ -664,7 +664,7 @@
   )
 
   (module Button_Switch_THT:SW_PUSH_6mm_H5mm (layer F.Cu) (tedit 5A02FE31) (tstamp 5F34AEF0)
-    (at 86.3346 115.134)
+    (at 52.1462 81.4028)
     (descr "tactile push button, 6x6mm e.g. PHAP33xx series, height=5mm")
     (tags "tact sw push 6mm")
     (path /5F576D84)
@@ -715,7 +715,7 @@
   )
 
   (module Button_Switch_THT:SW_PUSH_6mm_H5mm (layer F.Cu) (tedit 5A02FE31) (tstamp 5F34AED1)
-    (at 51.435 55.1434)
+    (at 17.2466 21.4122)
     (descr "tactile push button, 6x6mm e.g. PHAP33xx series, height=5mm")
     (tags "tact sw push 6mm")
     (path /5F573F28)
@@ -766,7 +766,7 @@
   )
 
   (module digikey:TRIM_P090S-04F20BR10K (layer F.Cu) (tedit 5F344ABF) (tstamp 5F34AEB2)
-    (at 199.604 74.6688)
+    (at 165.4156 40.9376)
     (path /5F162877)
     (fp_text reference RV1 (at -3.8277 -4.63828) (layer F.SilkS)
       (effects (font (size 1.000709 1.000709) (thickness 0.015)))
@@ -785,7 +785,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5F34AEA9)
-    (at 138.9911 108.712)
+    (at 104.8027 74.9808)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags resistor)
     (path /5FCCA6ED)
@@ -821,7 +821,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5F34AE98)
-    (at 127.0023 109.0168)
+    (at 92.8139 75.2856)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags resistor)
     (path /5F8C4E40)
@@ -857,7 +857,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5F34AE87)
-    (at 120.0427 110.0836)
+    (at 85.8543 76.3524)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags resistor)
     (path /5F8C49A9)
@@ -893,7 +893,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5F34AE76)
-    (at 107.9015 110.0836)
+    (at 73.7131 76.3524)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags resistor)
     (path /5F8C43EA)
@@ -929,7 +929,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5F34AE65)
-    (at 93.7029 110.0074)
+    (at 59.5145 76.2762)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags resistor)
     (path /5F8B59FA)
@@ -965,7 +965,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5F34AE54)
-    (at 235.047 70.756)
+    (at 200.8586 37.0248)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags resistor)
     (path /5F15903D)
@@ -1001,7 +1001,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5F34AE43)
-    (at 139.472 98.6438)
+    (at 105.2836 64.9126)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags resistor)
     (path /5F1589EE)
@@ -1037,7 +1037,7 @@
   )
 
   (module Package_DIP:DIP-28_W15.24mm (layer F.Cu) (tedit 5A02E8C5) (tstamp 5F34B914)
-    (at 181.8132 65.1764 90)
+    (at 147.6248 31.4452 90)
     (descr "28-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)")
     (tags "THT DIP DIL PDIP 2.54mm 15.24mm 600mil")
     (path /5F155A9C)
@@ -1129,7 +1129,7 @@
   )
 
   (module Package_DIP:DIP-28_W15.24mm (layer F.Cu) (tedit 5A02E8C5) (tstamp 5F34BC37)
-    (at 131.445 64.9732 90)
+    (at 97.2566 31.242 90)
     (descr "28-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)")
     (tags "THT DIP DIL PDIP 2.54mm 15.24mm 600mil")
     (path /5F154201)
@@ -1221,7 +1221,7 @@
   )
 
   (module Package_DIP:DIP-40_W15.24mm (layer F.Cu) (tedit 5A02E8C5) (tstamp 5F34ADD2)
-    (at 64.897 94.2848 90)
+    (at 30.7086 60.5536 90)
     (descr "40-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)")
     (tags "THT DIP DIL PDIP 2.54mm 15.24mm 600mil")
     (path /5F150F3C)
@@ -1337,7 +1337,7 @@
   )
 
   (module Package_DIP:DIP-40_W15.24mm (layer F.Cu) (tedit 5A02E8C5) (tstamp 5F34B422)
-    (at 64.9986 64.5922 90)
+    (at 30.8102 30.861 90)
     (descr "40-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)")
     (tags "THT DIP DIL PDIP 2.54mm 15.24mm 600mil")
     (path /5F1524B7)
@@ -1453,7 +1453,7 @@
   )
 
   (module Capacitor_SMD:C_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5F34AD5A)
-    (at 182.9054 43.7642)
+    (at 148.717 10.033)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /6021E144)
@@ -1489,7 +1489,7 @@
   )
 
   (module Capacitor_SMD:C_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5F34AD49)
-    (at 192.2549 86.995)
+    (at 158.0665 53.2638)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /5F160663)
@@ -1525,7 +1525,7 @@
   )
 
   (module Capacitor_SMD:C_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5F34AD38)
-    (at 139.0142 43.7134)
+    (at 104.8258 9.9822)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /5F1612B1)
@@ -1561,7 +1561,7 @@
   )
 
   (module Capacitor_SMD:C_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5F34AD27)
-    (at 75.7959 117.1194)
+    (at 41.6075 83.3882)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /606FA0F6)
@@ -1597,7 +1597,7 @@
   )
 
   (module Capacitor_SMD:C_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5F34AD16)
-    (at 112.4227 100.3046)
+    (at 78.2343 66.5734)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /5F160F2E)
@@ -1633,7 +1633,7 @@
   )
 
   (module Capacitor_SMD:C_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5F34BE23)
-    (at 77.5739 70.0532)
+    (at 43.3855 36.322)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /5F161584)
