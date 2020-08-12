@@ -105,34 +105,34 @@ $EndComp
 $Comp
 L Device:C C?
 U 1 1 5F160663
-P 10050 5400
-F 0 "C?" H 10165 5446 50  0000 L CNN
-F 1 "C" H 10165 5355 50  0000 L CNN
-F 2 "" H 10088 5250 50  0001 C CNN
-F 3 "~" H 10050 5400 50  0001 C CNN
-	1    10050 5400
+P 7450 5250
+F 0 "C?" H 7565 5296 50  0000 L CNN
+F 1 "C" H 7565 5205 50  0000 L CNN
+F 2 "" H 7488 5100 50  0001 C CNN
+F 3 "~" H 7450 5250 50  0001 C CNN
+	1    7450 5250
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:C C?
 U 1 1 5F160F2E
-P 10450 5400
-F 0 "C?" H 10565 5446 50  0000 L CNN
-F 1 "C" H 10565 5355 50  0000 L CNN
-F 2 "" H 10488 5250 50  0001 C CNN
-F 3 "~" H 10450 5400 50  0001 C CNN
-	1    10450 5400
+P 1800 7150
+F 0 "C?" H 1915 7196 50  0000 L CNN
+F 1 "C" H 1915 7105 50  0000 L CNN
+F 2 "" H 1838 7000 50  0001 C CNN
+F 3 "~" H 1800 7150 50  0001 C CNN
+	1    1800 7150
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:C C?
 U 1 1 5F1612B1
-P 9700 5400
-F 0 "C?" H 9815 5446 50  0000 L CNN
-F 1 "C" H 9815 5355 50  0000 L CNN
-F 2 "" H 9738 5250 50  0001 C CNN
-F 3 "~" H 9700 5400 50  0001 C CNN
-	1    9700 5400
+P 6600 2750
+F 0 "C?" H 6715 2796 50  0000 L CNN
+F 1 "C" H 6715 2705 50  0000 L CNN
+F 2 "" H 6638 2600 50  0001 C CNN
+F 3 "~" H 6600 2750 50  0001 C CNN
+	1    6600 2750
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -149,12 +149,12 @@ $EndComp
 $Comp
 L Device:C C?
 U 1 1 5F161584
-P 10800 5400
-F 0 "C?" H 10915 5446 50  0000 L CNN
-F 1 "C" H 10915 5355 50  0000 L CNN
-F 2 "" H 10838 5250 50  0001 C CNN
-F 3 "~" H 10800 5400 50  0001 C CNN
-	1    10800 5400
+P 1200 3250
+F 0 "C?" H 1315 3296 50  0000 L CNN
+F 1 "C" H 1315 3205 50  0000 L CNN
+F 2 "" H 1238 3100 50  0001 C CNN
+F 3 "~" H 1200 3250 50  0001 C CNN
+	1    1200 3250
 	1    0    0    -1  
 $EndComp
 NoConn ~ 2300 2350
@@ -247,23 +247,23 @@ $EndComp
 $Comp
 L Switch:SW_Push SW?
 U 1 1 5F573F28
-P 2350 1450
-F 0 "SW?" H 2350 1735 50  0000 C CNN
-F 1 "RESET" H 2350 1644 50  0000 C CNN
-F 2 "" H 2350 1650 50  0001 C CNN
-F 3 "~" H 2350 1650 50  0001 C CNN
-	1    2350 1450
+P 2350 1150
+F 0 "SW?" H 2350 1435 50  0000 C CNN
+F 1 "RESET" H 2350 1344 50  0000 C CNN
+F 2 "" H 2350 1350 50  0001 C CNN
+F 3 "~" H 2350 1350 50  0001 C CNN
+	1    2350 1150
 	1    0    0    -1  
 $EndComp
 $Comp
 L power:GND #PWR?
 U 1 1 5F5759CC
-P 2650 1500
-F 0 "#PWR?" H 2650 1250 50  0001 C CNN
-F 1 "GND" H 2655 1327 50  0000 C CNN
-F 2 "" H 2650 1500 50  0001 C CNN
-F 3 "" H 2650 1500 50  0001 C CNN
-	1    2650 1500
+P 3000 1150
+F 0 "#PWR?" H 3000 900 50  0001 C CNN
+F 1 "GND" H 3005 977 50  0000 C CNN
+F 2 "" H 3000 1150 50  0001 C CNN
+F 3 "" H 3000 1150 50  0001 C CNN
+	1    3000 1150
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -294,37 +294,37 @@ F 9 "W65C02S6TPG-14" H 3350 1750 50  0001 L CNN "Manufacturer_Part_Number"
 	1    2300 2350
 	1    0    0    -1  
 $EndComp
-Text Label 3900 3050 0    50   ~ 0
+Text Label 3800 3050 0    50   ~ 0
 D0
-Text Label 3900 3150 0    50   ~ 0
+Text Label 3800 3150 0    50   ~ 0
 D1
-Text Label 3900 3250 0    50   ~ 0
+Text Label 3800 3250 0    50   ~ 0
 D2
-Text Label 3900 3350 0    50   ~ 0
+Text Label 3800 3350 0    50   ~ 0
 D3
-Text Label 3900 3450 0    50   ~ 0
+Text Label 3800 3450 0    50   ~ 0
 D4
-Text Label 3900 3550 0    50   ~ 0
+Text Label 3800 3550 0    50   ~ 0
 D5
-Text Label 3900 3650 0    50   ~ 0
+Text Label 3800 3650 0    50   ~ 0
 D6
-Text Label 3900 3750 0    50   ~ 0
+Text Label 3800 3750 0    50   ~ 0
 D7
-Text Label 3900 6100 0    50   ~ 0
+Text Label 3850 6100 0    50   ~ 0
 D0
-Text Label 3900 6200 0    50   ~ 0
+Text Label 3850 6200 0    50   ~ 0
 D1
-Text Label 3900 6300 0    50   ~ 0
+Text Label 3800 6300 0    50   ~ 0
 D2
-Text Label 3900 6400 0    50   ~ 0
+Text Label 3800 6400 0    50   ~ 0
 D3
-Text Label 3900 6500 0    50   ~ 0
+Text Label 3800 6500 0    50   ~ 0
 D4
-Text Label 3900 6600 0    50   ~ 0
+Text Label 3800 6600 0    50   ~ 0
 D5
-Text Label 3900 6700 0    50   ~ 0
+Text Label 3800 6700 0    50   ~ 0
 D6
-Text Label 3900 6800 0    50   ~ 0
+Text Label 3800 6800 0    50   ~ 0
 D7
 Entry Wire Line
 	3900 6100 4000 6200
@@ -358,21 +358,21 @@ Entry Wire Line
 	3900 3650 4000 3750
 Entry Wire Line
 	3900 3750 4000 3850
-Text Label 4700 3600 0    50   ~ 0
+Text Label 4800 3600 0    50   ~ 0
 D0
-Text Label 4700 3700 0    50   ~ 0
+Text Label 4800 3700 0    50   ~ 0
 D1
-Text Label 4700 3800 0    50   ~ 0
+Text Label 4800 3800 0    50   ~ 0
 D2
-Text Label 6300 3900 0    50   ~ 0
+Text Label 6200 3900 0    50   ~ 0
 D3
-Text Label 6300 3800 0    50   ~ 0
+Text Label 6200 3800 0    50   ~ 0
 D4
-Text Label 6300 3700 0    50   ~ 0
+Text Label 6200 3700 0    50   ~ 0
 D5
-Text Label 6300 3600 0    50   ~ 0
+Text Label 6200 3600 0    50   ~ 0
 D6
-Text Label 6300 3500 0    50   ~ 0
+Text Label 6200 3500 0    50   ~ 0
 D7
 Entry Wire Line
 	6300 3500 6400 3600
@@ -446,13 +446,13 @@ Text Label 2000 4150 0    50   ~ 0
 A10
 Text Label 2000 4250 0    50   ~ 0
 A11
-Text Label 3700 3850 0    50   ~ 0
+Text Label 3550 3850 0    50   ~ 0
 A15
-Text Label 3700 3950 0    50   ~ 0
+Text Label 3550 3950 0    50   ~ 0
 A14
-Text Label 3700 4050 0    50   ~ 0
+Text Label 3550 4050 0    50   ~ 0
 A13
-Text Label 3700 4150 0    50   ~ 0
+Text Label 3550 4150 0    50   ~ 0
 A12
 Entry Wire Line
 	1900 3050 2000 3150
@@ -536,15 +536,15 @@ Text Label 4850 3400 0    50   ~ 0
 A1
 Text Label 4850 3500 0    50   ~ 0
 A0
-Text Label 6200 2800 0    50   ~ 0
+Text Label 6100 2800 0    50   ~ 0
 A13
-Text Label 6200 2900 0    50   ~ 0
+Text Label 6100 2900 0    50   ~ 0
 A8
-Text Label 6200 3000 0    50   ~ 0
+Text Label 6100 3000 0    50   ~ 0
 A9
-Text Label 6200 3100 0    50   ~ 0
+Text Label 6100 3100 0    50   ~ 0
 A11
-Text Label 6200 3300 0    50   ~ 0
+Text Label 6050 3300 0    50   ~ 0
 A10
 Text Label 8200 2600 0    50   ~ 0
 A14
@@ -602,15 +602,15 @@ Entry Wire Line
 	8100 3300 8200 3400
 Entry Wire Line
 	8100 3400 8200 3500
-Text Label 3700 7000 0    50   ~ 0
+Text Label 3600 7000 0    50   ~ 0
 A13
-Text Label 3650 5600 0    50   ~ 0
+Text Label 3550 5600 0    50   ~ 0
 A0
-Text Label 3650 5700 0    50   ~ 0
+Text Label 3550 5700 0    50   ~ 0
 A1
-Text Label 3650 5800 0    50   ~ 0
+Text Label 3550 5800 0    50   ~ 0
 A2
-Text Label 3650 5900 0    50   ~ 0
+Text Label 3550 5900 0    50   ~ 0
 A3
 Entry Wire Line
 	3650 5600 3750 5700
@@ -712,69 +712,69 @@ F 3 "" H 2150 5200 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Entry Wire Line
-	2150 6200 2250 6300
+	2100 6200 2200 6300
 Entry Wire Line
-	2150 6300 2250 6400
+	2100 6300 2200 6400
 Entry Wire Line
-	2150 6400 2250 6500
+	2100 6400 2200 6500
 Entry Wire Line
-	2150 6500 2250 6600
+	2100 6500 2200 6600
 Entry Wire Line
-	2150 6600 2250 6700
+	2100 6600 2200 6700
 Entry Wire Line
-	2150 6700 2250 6800
+	2100 6700 2200 6800
 Entry Wire Line
-	2150 6800 2250 6900
+	2100 6800 2200 6900
 Entry Wire Line
-	2150 6900 2250 7000
-Text Label 2250 6300 0    50   ~ 0
+	2100 6900 2200 7000
+Text Label 2200 6300 0    50   ~ 0
 PB0
-Text Label 2250 6400 0    50   ~ 0
+Text Label 2200 6400 0    50   ~ 0
 PB1
-Text Label 2250 6500 0    50   ~ 0
+Text Label 2200 6500 0    50   ~ 0
 PB2
-Text Label 2250 6600 0    50   ~ 0
+Text Label 2200 6600 0    50   ~ 0
 PB3
-Text Label 2250 6700 0    50   ~ 0
+Text Label 2200 6700 0    50   ~ 0
 PB4
-Text Label 2250 6800 0    50   ~ 0
+Text Label 2200 6800 0    50   ~ 0
 PB5
-Text Label 2250 6900 0    50   ~ 0
+Text Label 2200 6900 0    50   ~ 0
 PB6
-Text Label 2250 7000 0    50   ~ 0
+Text Label 2200 7000 0    50   ~ 0
 PB7
-Text Label 6350 5600 0    50   ~ 0
+Text Label 6250 5600 0    50   ~ 0
 PB0
-Text Label 6350 5700 0    50   ~ 0
+Text Label 6250 5700 0    50   ~ 0
 PB1
-Text Label 6350 5800 0    50   ~ 0
+Text Label 6250 5800 0    50   ~ 0
 PB2
-Text Label 6350 5900 0    50   ~ 0
+Text Label 6250 5900 0    50   ~ 0
 PB3
-Text Label 6350 6000 0    50   ~ 0
+Text Label 6250 6000 0    50   ~ 0
 PB4
-Text Label 6350 6100 0    50   ~ 0
+Text Label 6250 6100 0    50   ~ 0
 PB5
-Text Label 6350 6200 0    50   ~ 0
+Text Label 6250 6200 0    50   ~ 0
 PB6
-Text Label 6350 6300 0    50   ~ 0
+Text Label 6250 6300 0    50   ~ 0
 PB7
 Entry Wire Line
-	6250 5500 6350 5600
+	6150 5500 6250 5600
 Entry Wire Line
-	6250 5600 6350 5700
+	6150 5600 6250 5700
 Entry Wire Line
-	6250 5700 6350 5800
+	6150 5700 6250 5800
 Entry Wire Line
-	6250 5800 6350 5900
+	6150 5800 6250 5900
 Entry Wire Line
-	6250 5900 6350 6000
+	6150 5900 6250 6000
 Entry Wire Line
-	6250 6000 6350 6100
+	6150 6000 6250 6100
 Entry Wire Line
-	6250 6100 6350 6200
+	6150 6100 6250 6200
 Entry Wire Line
-	6250 6200 6350 6300
+	6150 6200 6250 6300
 $Comp
 L Device:R R?
 U 1 1 5F8B59FA
@@ -789,34 +789,34 @@ $EndComp
 $Comp
 L Device:R R?
 U 1 1 5F8C43EA
-P 4950 6400
-F 0 "R?" H 4850 6300 50  0000 C CNN
-F 1 "1k" H 4850 6400 50  0000 C CNN
-F 2 "" V 4880 6400 50  0001 C CNN
-F 3 "~" H 4950 6400 50  0001 C CNN
-	1    4950 6400
+P 4800 6400
+F 0 "R?" H 4700 6300 50  0000 C CNN
+F 1 "1k" H 4700 6400 50  0000 C CNN
+F 2 "" V 4730 6400 50  0001 C CNN
+F 3 "~" H 4800 6400 50  0001 C CNN
+	1    4800 6400
 	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R R?
 U 1 1 5F8C49A9
-P 5350 6400
-F 0 "R?" H 5250 6300 50  0000 C CNN
-F 1 "1k" H 5250 6400 50  0000 C CNN
-F 2 "" V 5280 6400 50  0001 C CNN
-F 3 "~" H 5350 6400 50  0001 C CNN
-	1    5350 6400
+P 5100 6400
+F 0 "R?" H 5000 6300 50  0000 C CNN
+F 1 "1k" H 5000 6400 50  0000 C CNN
+F 2 "" V 5030 6400 50  0001 C CNN
+F 3 "~" H 5100 6400 50  0001 C CNN
+	1    5100 6400
 	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R R?
 U 1 1 5F8C4E40
-P 5750 6400
-F 0 "R?" H 5650 6300 50  0000 C CNN
-F 1 "1k" H 5650 6400 50  0000 C CNN
-F 2 "" V 5680 6400 50  0001 C CNN
-F 3 "~" H 5750 6400 50  0001 C CNN
-	1    5750 6400
+P 5400 6400
+F 0 "R?" H 5300 6300 50  0000 C CNN
+F 1 "1k" H 5300 6400 50  0000 C CNN
+F 2 "" V 5330 6400 50  0001 C CNN
+F 3 "~" H 5400 6400 50  0001 C CNN
+	1    5400 6400
 	-1   0    0    1   
 $EndComp
 $Comp
@@ -844,42 +844,42 @@ $EndComp
 $Comp
 L Switch:SW_Push SW?
 U 1 1 5F88AACC
-P 5750 7100
-F 0 "SW?" V 5650 7300 50  0000 C CNN
-F 1 "SW_Push" V 5550 7300 50  0000 C CNN
-F 2 "" H 5750 7300 50  0001 C CNN
-F 3 "~" H 5750 7300 50  0001 C CNN
-	1    5750 7100
+P 5400 7100
+F 0 "SW?" V 5250 7200 50  0000 C CNN
+F 1 "SW_Push" V 5200 7300 50  0001 C CNN
+F 2 "" H 5400 7300 50  0001 C CNN
+F 3 "~" H 5400 7300 50  0001 C CNN
+	1    5400 7100
 	0    1    1    0   
 $EndComp
 $Comp
 L Switch:SW_Push SW?
 U 1 1 5F88A72B
-P 5350 7100
-F 0 "SW?" V 5250 7300 50  0000 C CNN
-F 1 "SW_Push" V 5150 7300 50  0000 C CNN
-F 2 "" H 5350 7300 50  0001 C CNN
-F 3 "~" H 5350 7300 50  0001 C CNN
-	1    5350 7100
+P 5100 7100
+F 0 "SW?" V 4950 7200 50  0000 C CNN
+F 1 "SW_Push" V 4900 7300 50  0001 C CNN
+F 2 "" H 5100 7300 50  0001 C CNN
+F 3 "~" H 5100 7300 50  0001 C CNN
+	1    5100 7100
 	0    1    1    0   
 $EndComp
 $Comp
 L Switch:SW_Push SW?
 U 1 1 5F88A165
-P 4950 7100
-F 0 "SW?" V 4850 7300 50  0000 C CNN
-F 1 "SW_Push" V 4750 7300 50  0000 C CNN
-F 2 "" H 4950 7300 50  0001 C CNN
-F 3 "~" H 4950 7300 50  0001 C CNN
-	1    4950 7100
+P 4800 7100
+F 0 "SW?" V 4650 7200 50  0000 C CNN
+F 1 "SW_Push" V 4600 7300 50  0001 C CNN
+F 2 "" H 4800 7300 50  0001 C CNN
+F 3 "~" H 4800 7300 50  0001 C CNN
+	1    4800 7100
 	0    1    1    0   
 $EndComp
 $Comp
 L Switch:SW_Push SW?
 U 1 1 5F576D84
 P 4500 7100
-F 0 "SW?" V 4400 7300 50  0000 C CNN
-F 1 "SW_Push" V 4300 7300 50  0000 C CNN
+F 0 "SW?" V 4350 7200 50  0000 C CNN
+F 1 "SW_Push" V 4300 7300 50  0001 C CNN
 F 2 "" H 4500 7300 50  0001 C CNN
 F 3 "~" H 4500 7300 50  0001 C CNN
 	1    4500 7100
@@ -895,7 +895,7 @@ Connection ~ 1200 1550
 Wire Wire Line
 	3500 2350 3600 2350
 Wire Wire Line
-	3600 2350 3600 1700
+	3600 2350 3600 2250
 Wire Wire Line
 	1750 1700 1550 1700
 Connection ~ 1550 1700
@@ -940,14 +940,10 @@ Wire Wire Line
 Wire Wire Line
 	2050 1700 2150 1700
 Wire Wire Line
-	2150 1700 2150 1450
+	2150 1700 2150 1150
 Connection ~ 2150 1700
 Wire Wire Line
-	2150 1700 3600 1700
-Wire Wire Line
-	2550 1450 2650 1450
-Wire Wire Line
-	2650 1450 2650 1500
+	2150 1700 2700 1700
 Wire Wire Line
 	6850 6500 6850 6600
 Wire Wire Line
@@ -1116,8 +1112,6 @@ Wire Wire Line
 	9350 3100 9500 3100
 Wire Wire Line
 	9350 3300 9500 3300
-Wire Bus Line
-	6400 3600 6400 4300
 Connection ~ 8100 4650
 Wire Bus Line
 	8100 4650 9600 4650
@@ -1150,23 +1144,13 @@ Wire Bus Line
 	1900 4650 600  4650
 Connection ~ 1900 4650
 Wire Wire Line
-	3500 7550 3500 7300
-Wire Wire Line
-	1550 2650 2300 2650
-Wire Wire Line
 	6050 3400 6150 3400
 Wire Wire Line
 	6150 3400 6150 4750
 Wire Wire Line
-	1500 7350 650  7350
-Wire Wire Line
-	650  7350 650  6250
-Wire Wire Line
 	9350 3400 9400 3400
 Wire Wire Line
 	9400 3400 9400 4800
-Wire Wire Line
-	1500 6150 1450 6150
 Wire Wire Line
 	1600 4800 9400 4800
 Wire Wire Line
@@ -1212,56 +1196,56 @@ Wire Wire Line
 Wire Wire Line
 	2300 5200 2150 5200
 Wire Wire Line
-	2300 6300 2250 6300
+	2300 6300 2200 6300
 Wire Wire Line
-	2300 6400 2250 6400
+	2300 6400 2200 6400
 Wire Wire Line
-	2300 6500 2250 6500
+	2300 6500 2200 6500
 Wire Wire Line
-	2300 6600 2250 6600
+	2300 6600 2200 6600
 Wire Wire Line
-	2300 6700 2250 6700
+	2300 6700 2200 6700
 Wire Wire Line
-	2300 6800 2250 6800
+	2300 6800 2200 6800
 Wire Wire Line
-	2300 6900 2250 6900
+	2300 6900 2200 6900
 Wire Wire Line
-	2300 7000 2250 7000
+	2300 7000 2200 7000
 Wire Wire Line
-	6450 5600 6350 5600
+	6450 5600 6250 5600
 Wire Wire Line
-	6450 5700 6350 5700
+	6450 5700 6250 5700
 Wire Wire Line
-	6450 5800 6350 5800
+	6450 5800 6250 5800
 Wire Wire Line
-	6450 5900 6350 5900
+	6450 5900 6250 5900
 Wire Wire Line
-	6450 6000 6350 6000
+	6450 6000 6250 6000
 Wire Wire Line
-	6450 6100 6350 6100
+	6450 6100 6250 6100
 Wire Wire Line
-	6450 6200 6350 6200
+	6450 6200 6250 6200
 Wire Wire Line
-	6450 6300 6350 6300
+	6450 6300 6250 6300
 Wire Wire Line
 	4500 6250 4500 6150
 Wire Wire Line
-	4950 6250 4950 6150
+	4800 6250 4800 6150
 Wire Wire Line
-	5350 6250 5350 6150
+	5100 6250 5100 6150
 Wire Wire Line
-	5350 6150 4950 6150
+	5100 6150 4800 6150
 Wire Wire Line
-	5750 6250 5750 6150
+	5400 6250 5400 6150
 Wire Wire Line
-	5750 6150 5350 6150
-Connection ~ 5350 6150
+	5400 6150 5100 6150
+Connection ~ 5100 6150
 Wire Wire Line
-	4950 6150 4500 6150
-Connection ~ 4950 6150
+	4800 6150 4500 6150
+Connection ~ 4800 6150
 Connection ~ 4500 6150
 Wire Bus Line
-	2150 7650 6250 7650
+	2100 7650 6150 7650
 Wire Wire Line
 	2300 5500 2050 5500
 Wire Wire Line
@@ -1271,52 +1255,48 @@ Wire Wire Line
 Wire Wire Line
 	4500 6600 4500 6900
 Connection ~ 4500 7300
-Connection ~ 4950 7300
+Connection ~ 4800 7300
 Wire Wire Line
-	4950 7300 4500 7300
-Connection ~ 5350 7300
+	4800 7300 4500 7300
+Connection ~ 5100 7300
 Wire Wire Line
-	4950 7300 5350 7300
+	4800 7300 5100 7300
 Wire Wire Line
-	5750 7300 5350 7300
+	5400 7300 5100 7300
 Wire Wire Line
-	4250 6650 4950 6650
+	4250 6650 4800 6650
 Wire Wire Line
-	4950 6650 4950 6900
+	4800 6650 4800 6900
 Wire Wire Line
 	4500 6550 4500 6600
 Connection ~ 4500 6600
 Wire Wire Line
-	4950 6550 4950 6650
-Connection ~ 4950 6650
+	4800 6550 4800 6650
+Connection ~ 4800 6650
 Wire Wire Line
-	5350 6550 5350 6700
+	5100 6550 5100 6700
 Wire Wire Line
-	5750 6550 5750 6750
+	5400 6550 5400 6750
 Wire Wire Line
 	2300 5700 1950 5700
 Wire Wire Line
-	4300 6700 5350 6700
-Connection ~ 5350 6700
+	4300 6700 5100 6700
+Connection ~ 5100 6700
 Wire Wire Line
-	5350 6700 5350 6900
+	5100 6700 5100 6900
 Wire Wire Line
 	2300 5800 1900 5800
 Wire Wire Line
 	1900 5800 1900 5000
 Wire Wire Line
-	4350 6750 5750 6750
-Connection ~ 5750 6750
+	4350 6750 5400 6750
+Connection ~ 5400 6750
 Wire Wire Line
-	5750 6750 5750 6900
-Wire Wire Line
-	1500 4750 1500 6150
+	5400 6750 5400 6900
 Wire Wire Line
 	4350 5000 4350 6750
 Wire Bus Line
 	1900 4650 3750 4650
-Wire Wire Line
-	1550 7550 3500 7550
 Wire Wire Line
 	4200 5150 4200 6600
 Wire Wire Line
@@ -1334,35 +1314,35 @@ Wire Wire Line
 $Comp
 L Device:R R?
 U 1 1 5FCCA6ED
-P 6000 6400
-F 0 "R?" H 5900 6300 50  0000 C CNN
-F 1 "1k" H 5900 6400 50  0000 C CNN
-F 2 "" V 5930 6400 50  0001 C CNN
-F 3 "~" H 6000 6400 50  0001 C CNN
-	1    6000 6400
+P 5700 6400
+F 0 "R?" H 5600 6300 50  0000 C CNN
+F 1 "1k" H 5600 6400 50  0000 C CNN
+F 2 "" V 5630 6400 50  0001 C CNN
+F 3 "~" H 5700 6400 50  0001 C CNN
+	1    5700 6400
 	-1   0    0    1   
 $EndComp
 $Comp
 L Switch:SW_Push SW?
 U 1 1 5FCCAA94
-P 6000 7100
-F 0 "SW?" V 5900 7300 50  0000 C CNN
-F 1 "SW_Push" V 5800 7300 50  0000 C CNN
-F 2 "" H 6000 7300 50  0001 C CNN
-F 3 "~" H 6000 7300 50  0001 C CNN
-	1    6000 7100
+P 5700 7100
+F 0 "SW?" V 5550 7200 50  0000 C CNN
+F 1 "SW_Push" V 5500 7300 50  0001 C CNN
+F 2 "" H 5700 7300 50  0001 C CNN
+F 3 "~" H 5700 7300 50  0001 C CNN
+	1    5700 7100
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	6000 6550 6000 6800
+	5700 6550 5700 6800
 Wire Wire Line
-	5750 7300 6000 7300
-Connection ~ 5750 7300
+	5400 7300 5700 7300
+Connection ~ 5400 7300
 Wire Wire Line
-	6000 6250 6000 6150
+	5700 6250 5700 6150
 Wire Wire Line
-	6000 6150 5750 6150
-Connection ~ 5750 6150
+	5700 6150 5400 6150
+Connection ~ 5400 6150
 Wire Wire Line
 	2300 5900 1850 5900
 Wire Wire Line
@@ -1372,50 +1352,24 @@ Wire Wire Line
 Wire Wire Line
 	4400 4950 4400 6800
 Wire Wire Line
-	4400 6800 6000 6800
-Connection ~ 6000 6800
+	4400 6800 5700 6800
+Connection ~ 5700 6800
 Wire Wire Line
-	6000 6800 6000 6900
+	5700 6800 5700 6900
 Connection ~ 3750 4650
 Wire Bus Line
 	3750 4650 3800 4650
-Wire Wire Line
-	4050 6000 4050 4550
-Wire Wire Line
-	4050 4550 1550 4550
-Wire Wire Line
-	1550 4550 1550 2650
-Connection ~ 1550 2450
 Connection ~ 4000 4300
-Wire Wire Line
-	3500 6000 3650 6000
-Wire Wire Line
-	3650 6000 3650 6050
-Wire Wire Line
-	3650 6050 3850 6050
-Wire Wire Line
-	3850 6050 3850 6000
-Wire Wire Line
-	3850 6000 4050 6000
 NoConn ~ 3500 5400
 NoConn ~ 3500 5500
 Wire Wire Line
 	650  6250 850  6250
-Connection ~ 1500 6150
-Wire Wire Line
-	1500 6150 1500 7350
 Wire Wire Line
 	700  6450 750  6450
 Wire Wire Line
-	1600 4800 1600 6550
+	1600 4800 1600 6150
 Wire Wire Line
-	1450 6550 1600 6550
-Connection ~ 1550 2650
-Wire Wire Line
-	1550 2650 1550 2450
-Connection ~ 1550 4550
-Wire Wire Line
-	1550 4550 1550 7550
+	1450 6550 1500 6550
 Wire Wire Line
 	4300 5050 4300 6700
 Wire Wire Line
@@ -1448,8 +1402,6 @@ Wire Wire Line
 	2300 6200 2300 6150
 Wire Wire Line
 	2300 6150 1700 6150
-Wire Wire Line
-	1700 6150 1700 4700
 Wire Wire Line
 	1700 4700 5950 4700
 Wire Wire Line
@@ -1496,7 +1448,7 @@ L power:+5V #PWR?
 U 1 1 600D9173
 P 2050 7300
 F 0 "#PWR?" H 2050 7150 50  0001 C CNN
-F 1 "+5V" H 2000 7450 50  0000 C CNN
+F 1 "+5V" H 2050 7450 50  0000 C CNN
 F 2 "" H 2050 7300 50  0001 C CNN
 F 3 "" H 2050 7300 50  0001 C CNN
 	1    2050 7300
@@ -1514,8 +1466,6 @@ Wire Wire Line
 	3650 7500 3650 7100
 Wire Wire Line
 	3650 7100 3500 7100
-Wire Wire Line
-	3500 7200 3800 7200
 Connection ~ 4100 2950
 Wire Wire Line
 	4100 2950 4400 2950
@@ -1533,15 +1483,172 @@ Wire Wire Line
 	650  6250 650  5850
 Wire Wire Line
 	650  5850 850  5850
-Connection ~ 650  6250
 Wire Wire Line
 	850  6050 800  6050
 Wire Wire Line
 	800  6050 800  7600
+$Comp
+L power:GND #PWR?
+U 1 1 6021B53A
+P 4050 1550
+F 0 "#PWR?" H 4050 1300 50  0001 C CNN
+F 1 "GND" H 4055 1377 50  0000 C CNN
+F 2 "" H 4050 1550 50  0001 C CNN
+F 3 "" H 4050 1550 50  0001 C CNN
+	1    4050 1550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 6021E144
+P 9900 2750
+F 0 "C?" H 10015 2796 50  0000 L CNN
+F 1 "C" H 10015 2705 50  0000 L CNN
+F 2 "" H 9938 2600 50  0001 C CNN
+F 3 "~" H 9900 2750 50  0001 C CNN
+	1    9900 2750
+	1    0    0    -1  
+$EndComp
 Wire Wire Line
-	800  7600 3800 7600
+	9350 2600 9900 2600
+Connection ~ 9350 2600
+$Comp
+L power:GND #PWR?
+U 1 1 6023B20B
+P 9900 2900
+F 0 "#PWR?" H 9900 2650 50  0001 C CNN
+F 1 "GND" H 9905 2727 50  0000 C CNN
+F 2 "" H 9900 2900 50  0001 C CNN
+F 3 "" H 9900 2900 50  0001 C CNN
+	1    9900 2900
+	1    0    0    -1  
+$EndComp
 Wire Wire Line
-	3800 7600 3800 7200
+	6100 2600 6600 2600
+Wire Wire Line
+	6600 2900 6600 3250
+Wire Wire Line
+	6600 3250 6550 3250
+Connection ~ 6550 3250
+Wire Wire Line
+	7300 5100 7450 5100
+Connection ~ 7300 5100
+$Comp
+L power:GND #PWR?
+U 1 1 602CCD56
+P 7450 5400
+F 0 "#PWR?" H 7450 5150 50  0001 C CNN
+F 1 "GND" H 7455 5227 50  0000 C CNN
+F 2 "" H 7450 5400 50  0001 C CNN
+F 3 "" H 7450 5400 50  0001 C CNN
+	1    7450 5400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2050 7300 1800 7300
+Connection ~ 2050 7300
+$Comp
+L power:GND #PWR?
+U 1 1 60398FA6
+P 1950 6750
+F 0 "#PWR?" H 1950 6500 50  0001 C CNN
+F 1 "GND" H 1955 6577 50  0000 C CNN
+F 2 "" H 1950 6750 50  0001 C CNN
+F 3 "" H 1950 6750 50  0001 C CNN
+	1    1950 6750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1800 6750 1950 6750
+Wire Wire Line
+	1800 6750 1800 7000
+Wire Wire Line
+	1200 3000 1200 3100
+Connection ~ 1200 3000
+$Comp
+L power:GND #PWR?
+U 1 1 6042F46E
+P 1200 3500
+F 0 "#PWR?" H 1200 3250 50  0001 C CNN
+F 1 "GND" H 1205 3327 50  0000 C CNN
+F 2 "" H 1200 3500 50  0001 C CNN
+F 3 "" H 1200 3500 50  0001 C CNN
+	1    1200 3500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1200 3400 1200 3500
+Wire Bus Line
+	6400 3600 6400 4300
+$Comp
+L Device:C C?
+U 1 1 606FA0F6
+P 2700 1400
+F 0 "C?" H 2815 1446 50  0000 L CNN
+F 1 "0.1uF" H 2815 1355 50  0000 L CNN
+F 2 "" H 2738 1250 50  0001 C CNN
+F 3 "~" H 2700 1400 50  0001 C CNN
+	1    2700 1400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2550 1150 2700 1150
+Wire Wire Line
+	2700 1150 2700 1250
+Connection ~ 2700 1150
+Wire Wire Line
+	2700 1150 3000 1150
+Wire Wire Line
+	2700 1550 2700 1700
+Connection ~ 2700 1700
+Wire Wire Line
+	2700 1700 3600 1700
+Wire Wire Line
+	3500 6000 3600 6000
+Wire Wire Line
+	3600 6000 3600 6050
+Wire Wire Line
+	3600 6050 3850 6050
+Wire Wire Line
+	3850 6050 3850 5300
+Wire Wire Line
+	3850 5300 4550 5300
+Wire Wire Line
+	4550 5300 4550 2250
+Wire Wire Line
+	4550 2250 3600 2250
+Connection ~ 3600 2250
+Wire Wire Line
+	3600 2250 3600 1700
+Wire Wire Line
+	1700 6150 1700 4700
+Wire Wire Line
+	3500 7300 3700 7300
+Wire Wire Line
+	3700 7300 3700 7550
+Wire Wire Line
+	1550 2650 2300 2650
+Wire Wire Line
+	1550 7550 3700 7550
+Wire Wire Line
+	1550 2650 1550 7550
+Wire Wire Line
+	4150 6900 4150 7600
+Connection ~ 4150 6900
+Wire Wire Line
+	800  7600 4150 7600
+Wire Wire Line
+	3500 7200 4100 7200
+Wire Wire Line
+	1500 6550 1500 4750
+Wire Wire Line
+	1450 6150 1600 6150
+Wire Wire Line
+	1500 6550 1500 7400
+Wire Wire Line
+	1500 7400 650  7400
+Wire Wire Line
+	650  7400 650  6250
 Wire Bus Line
 	600  4650 600  6350
 Wire Wire Line
@@ -1563,9 +1670,9 @@ Wire Bus Line
 Wire Bus Line
 	9650 3600 9650 4300
 Wire Bus Line
-	6250 5500 6250 7650
+	6150 5500 6150 7650
 Wire Bus Line
-	2150 6200 2150 7650
+	2100 6200 2100 7650
 Wire Bus Line
 	4750 2500 4750 4650
 Wire Bus Line
@@ -1578,18 +1685,6 @@ Wire Bus Line
 	4000 4300 4000 6900
 Wire Bus Line
 	1900 3050 1900 4650
-Connection ~ 3800 7200
-Wire Wire Line
-	3800 7200 4100 7200
-$Comp
-L power:GND #PWR?
-U 1 1 6021B53A
-P 4050 1550
-F 0 "#PWR?" H 4050 1300 50  0001 C CNN
-F 1 "GND" H 4055 1377 50  0000 C CNN
-F 2 "" H 4050 1550 50  0001 C CNN
-F 3 "" H 4050 1550 50  0001 C CNN
-	1    4050 1550
-	1    0    0    -1  
-$EndComp
+Connection ~ 1500 6550
+Connection ~ 650  6250
 $EndSCHEMATC
